@@ -1,1 +1,3 @@
-# YOLOv3_Test
+# YOLOv3_Test（勉強用）
+
+- AIを用いた顔認識プログラムのテスト
